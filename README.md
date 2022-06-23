@@ -1,1 +1,1 @@
-# Zuri-Django_CRUD
+# Repository for Django CRUD task
